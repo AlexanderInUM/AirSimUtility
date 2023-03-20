@@ -13,3 +13,16 @@ _[More Details](https://microsoft.github.io/AirSim/build_windows/)_
 
 1. Based on [AirSim Customize Env](https://microsoft.github.io/AirSim/unreal_custenv/).
 2. For some assets inside the repository, try to use LandScapeMountains from UE4 directly for the files are too large to be uploaded to Github here.
+
+
+### Some Problems 
+Here are some of the problems that might occur:
+
+1. Unable to open uproject:  
+
+Try to do what the official documentation mentioned above accordingly.
+
+2. [Unable to start program](https://forums.unrealengine.com/t/unable-to-start-program-ue4-exe-error/316501)
+
+3. [Incompatible with VS](https://blog.csdn.net/qq_31788759/article/details/81046420)
+
